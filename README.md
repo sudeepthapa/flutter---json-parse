@@ -1,6 +1,6 @@
-# intro_parse
+# API parse 
 
-A new Flutter project.
+A new Flutter project using List, Alert and API.
 
 ## Getting Started
 
